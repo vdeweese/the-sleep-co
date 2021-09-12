@@ -13,13 +13,13 @@ navy: 192B37
 
 /* * {
     padding: 0.5rem;
-    border: 2px solid rgb(225, 225, 225)
+    border: 2px solid rgb(225, 225, 225);
 } */
 
-section {
+/* section {
     padding: 0.5rem;
-    border: 2px solid rgb(225,225,225);
-}
+    /* border: 2px solid rgb(225,225,225); 
+} */
 
 /* body { border: none;}
 html { border: none;} */
@@ -131,7 +131,7 @@ a:hover {
 /* ------------ Header & Footer Styles */
 
 header {
-    background-image: url('/images/bed-white.jpg');
+    background-image: url('/Images/bed-white-new.jpg');
     background-size: cover;
     background-position: center;
 }
